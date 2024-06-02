@@ -3,7 +3,7 @@ This educational tool is a Java-based program designed to facilitate learning Py
 
 Authors and Contributions
 Primary Authors: SFK, Ryan Jackson, Jose, and Bentley Markley
-This project is a collaborative effort between SFK, Ryan Jackson, Jose, and Bentley Markley. Each author brings unique insights and contributions to different aspects of the program:
+Each author brings unique insights and contributions to different aspects of the program:
 
 SFK: Conceptualized and developed the foundational structure of the Java-based learning tool. SFK's expertise lies in designing educational software and ensuring user-friendly interfaces.
 
