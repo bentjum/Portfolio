@@ -1,7 +1,7 @@
 /**
  * Authors: Bentley
  * Date: 
- * Class: CIS 232-001
+ * Class: CS 232-001
  * 
  * This program aims to assist the user in learning about Python using methods covering
  * key concepts, code examples, troubleshooting examples, advaced applications, hands on excercises,
